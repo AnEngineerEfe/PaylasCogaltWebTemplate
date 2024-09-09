@@ -10,7 +10,6 @@ body{
 .hakkimizda{
     background-color: #d1c5c5e2;
 }
-
 .ayrac{
     border:none;
     border-top: 3px solid #121315;
@@ -54,9 +53,4 @@ body{
 
 .figure:hover{
     opacity: 0.8;
-}
-
-#hakkimizda:visited{
-margin-top:10px;
-
 }
